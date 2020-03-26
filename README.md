@@ -1,5 +1,6 @@
 # TrackCovid19
-BY Palak Sharma and Sonal Bera
+soution proposed By Palak Sharma and Sonal Bera
+
 ### Problem
 This is an early warning system, which can predict times and areas  prone to risk by covid19 forecasting , using medical information, expert knowlegde and Stastical Modelling. This early warning system would help the goverment and health-care services to respond to outbreak in a more prepared manner enabling the impact to be minimised, limited resources to be saved and many lives to be saved
 Prevention and control can save thousands of people from risking their lives.
